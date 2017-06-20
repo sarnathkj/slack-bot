@@ -1,0 +1,26 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "Staples Slack Bot",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.65.0",
+    "slack-terminalize": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org/staplesdotcom/slackbots.git"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "keywords": [
+    "slack",
+    "terminal"
+  ],
+  "author": "Sarnath Jegadeesan",
+  "license": "MIT"
+}

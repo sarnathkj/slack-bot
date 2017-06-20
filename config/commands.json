@@ -1,0 +1,18 @@
+{
+	"help": {
+		"alias": [ "halp" ],
+		"endpoint": "#",
+		"help": "help [command](optional)",
+		"description": "To get help on all supported commands, or a specified command"
+	},
+
+	"oncall": {
+        "alias": [ "on-call", "on call" ],
+        "help": "on-call [teamname](optional)",
+        "description": "I'll find the on-call number of the team. Try these teams... pdb, dotcomsupport, oflsupport"
+    },
+
+	"error": {
+		"exclude": true
+	}
+}
